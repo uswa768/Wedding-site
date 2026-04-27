@@ -1,9 +1,5 @@
 import { useState } from 'react'
 
-// =====================================================================
-// IMAGE IMPORTS — aap yahan apni images import karein
-// =====================================================================
-// import rsvpBg from '../assets/rsvp-bg.jpg'   // Koi bhi atmospheric photo use kar saktay hain
 
 const rsvpBg = null
 
