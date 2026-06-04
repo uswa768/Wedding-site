@@ -15,7 +15,7 @@ export default function Details() {
           backgroundImage: detailsHeroBg ? `url(${detailsHeroBg})` : 'none',
           backgroundSize: 'cover',
           backgroundPosition: 'center',
-          backgroundColor: detailsHeroBg ? {detailsHeroBg} : '#7a8a6a',
+          backgroundColor: detailsHeroBg ? 'transparent' : '#7a8a6a',
           
         }}
       >
